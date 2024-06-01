@@ -48,8 +48,6 @@ cd swaydots
 stow .
 cd
 
-# Spicetify ricing
-
 # Make project directories
 mkdir -p ~/developer/projects
 cd developer/projects
@@ -57,9 +55,6 @@ git clone https://github.com/ShiverP/game-engine.git
 git clone https://github.com/ShiverP/edens-crucible.git
 git clone https://github.com/ShiverP/chiclaps.git
 cd
-
-# set up zsh
-#zsh
 
 # Enable and start sddm to log in
 sudo systemctl enable sddm
