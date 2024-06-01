@@ -24,11 +24,11 @@ sudo pacman -S zip unzip swayidle sddm htop brightnessctl blueman pavucontrol sw
 sudo pacman -S ttf-font-awesome ttf-roboto-mono-nerd --noconfirm
 
 # Install WM
-sudo pacman -S sway xdg-desktop-portal xdg-desktop-portal-wlr swayidle swaylock 
+sudo pacman -S sway xdg-desktop-portal xdg-desktop-portal-wlr swayidle swaylock --noconfirm
 
 # Set global git config name and password
 git config --global user.name "ShiverP"
-git config --global usern.email "shivamparwat01@gmail.com"
+git config --global user.email "shivamparwat01@gmail.com"
 
 # Install yay
 git clone https://aur.archlinux.org/yay.git
@@ -44,7 +44,7 @@ yay -S google-chrome-wayland-vulkan spotify webcord multimc-bin autotiling --noc
 sudo chsh -s /usr/bin/zsh
 
 # Stow to create symlinks and bring the entire system together
-cd dotfiles
+cd swaydots
 stow .
 cd
 
