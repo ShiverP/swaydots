@@ -1,3 +1,15 @@
-2024/06/01-14:44:51.040 c2d5 Reusing MANIFEST /home/shiver/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/06/01-14:44:51.040 c2d5 Recovering log #93
-2024/06/01-14:44:51.040 c2d5 Reusing old log /home/shiver/.config/google-chrome/Default/Sync Data/LevelDB/000093.log 
+2024/06/01-14:52:05.235 deed Reusing MANIFEST /home/shiver/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/01-14:52:05.235 deed Recovering log #93
+2024/06/01-14:52:05.236 deed Reusing old log /home/shiver/.config/google-chrome/Default/Sync Data/LevelDB/000093.log 
+2024/06/01-14:52:29.391 deed Level-0 table #97: started
+2024/06/01-14:52:29.395 deed Level-0 table #97: 98263 bytes OK
+2024/06/01-14:52:29.398 deed Delete type=0 #93
+2024/06/01-14:52:29.398 deed Compacting 4@0 + 1@1 files
+2024/06/01-14:52:29.402 deed Generated table #98@0: 68 keys, 12694 bytes
+2024/06/01-14:52:29.403 deed Compacted 4@0 + 1@1 files => 12694 bytes
+2024/06/01-14:52:29.404 deed compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/01-14:52:29.405 deed Delete type=2 #88
+2024/06/01-14:52:29.405 deed Delete type=2 #90
+2024/06/01-14:52:29.405 deed Delete type=2 #92
+2024/06/01-14:52:29.405 deed Delete type=2 #94
+2024/06/01-14:52:29.405 deed Delete type=2 #97
