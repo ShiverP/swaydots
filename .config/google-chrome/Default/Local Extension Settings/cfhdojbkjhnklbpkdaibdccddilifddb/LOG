@@ -1,0 +1,9 @@
+2024/06/01-14:44:51.215 c2d6 Reusing MANIFEST /home/shiver/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2024/06/01-14:44:51.215 c2d6 Recovering log #6
+2024/06/01-14:44:51.215 c2d6 Reusing old log /home/shiver/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000006.log 
+2024/06/01-14:45:59.806 c2d5 Compacting 1@1 + 1@2 files
+2024/06/01-14:45:59.816 c2d5 Generated table #9@1: 10 keys, 1113336 bytes
+2024/06/01-14:45:59.816 c2d5 Compacted 1@1 + 1@2 files => 1113336 bytes
+2024/06/01-14:45:59.817 c2d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/01-14:45:59.818 c2d5 Delete type=2 #5
+2024/06/01-14:45:59.818 c2d5 Delete type=2 #7

@@ -1,0 +1,2 @@
+!function(){var e={files:{url:chrome.runtime.getURL("%path%")},version:chrome.runtime.getManifest().version};localStorage.setItem("_enhancerInfo",JSON.stringify(e,null,4));var n=document.head||document.getElementsByTagName("head")[0]||document.documentElement,t=document.createElement("script");t.className="te-injected",t.src=chrome.runtime.getURL("index.js"),n.appendChild(t),console.info("[TE] [INJECT] Injected index.js")}();
+//# sourceMappingURL=inject.js.map

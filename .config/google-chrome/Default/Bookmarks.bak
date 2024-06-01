@@ -1,0 +1,183 @@
+{
+   "checksum": "0d24df01367706d9616344ac0f7fbc3e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13293333960773448",
+            "date_last_used": "13357358332575757",
+            "guid": "a3259902-a511-40ea-aa21-59e1743ad10f",
+            "id": "5",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13330469609966150",
+            "date_last_used": "13351145267842271",
+            "guid": "9120afe0-6861-461a-9eff-c536d6c511e7",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "One Piece | Tcbscans",
+            "type": "url",
+            "url": "https://ww1.tcbscans.org/manga/one-piece/"
+         }, {
+            "date_added": "13343168825913520",
+            "date_last_used": "13351146369147300",
+            "guid": "9da26b25-6fec-4f71-8436-27edd007b65c",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OPSCANS",
+            "type": "url",
+            "url": "https://opscanlations.com/"
+         }, {
+            "date_added": "13344980775203693",
+            "date_last_used": "13346804925800575",
+            "guid": "2d8b43e1-f93a-4fdf-ad17-8d067f0df14f",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Channel dashboard - YouTube Studio",
+            "type": "url",
+            "url": "https://studio.youtube.com/channel/UCabR4Dk3FQIxyWkXvlXvrSg"
+         }, {
+            "date_added": "13344980763865670",
+            "date_last_used": "0",
+            "guid": "ea64c66d-2523-4aef-a09c-6dfae0be4a0c",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Shiver - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/channel/UCabR4Dk3FQIxyWkXvlXvrSg"
+         }, {
+            "date_added": "13344980746534986",
+            "date_last_used": "0",
+            "guid": "0ca8456c-f7eb-4b4a-bed8-6eab14790d45",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tiktok",
+            "type": "url",
+            "url": "https://www.tiktok.com/@oppaidragontv"
+         }, {
+            "date_added": "13344882342795451",
+            "date_last_used": "0",
+            "guid": "5347553c-8447-48bd-9ed0-febf679520a3",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dashboard OppaiDragonTV",
+            "type": "url",
+            "url": "https://dashboard.twitch.tv/u/oppaidragontv/home"
+         }, {
+            "date_added": "13344882328128341",
+            "date_last_used": "0",
+            "guid": "e8851e22-3687-47f7-ad9a-f92c3f485943",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OppaiDragonTV - Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/oppaidragontv"
+         }, {
+            "date_added": "13330434986620395",
+            "date_last_used": "13361151045075708",
+            "guid": "ee21500d-0b1d-4b65-b756-e8972eb4f17d",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reggie StreamManager",
+            "type": "url",
+            "url": "https://dashboard.twitch.tv/u/reggiedevall/stream-manager"
+         }, {
+            "date_added": "13330686913356842",
+            "date_last_used": "13331653588206838",
+            "guid": "7baeefc2-5f7d-4a2d-bf49-72b39fee19c6",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reggie Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/reggiedevall"
+         } ],
+         "date_added": "13361719366033049",
+         "date_last_used": "0",
+         "date_modified": "13344980775203693",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13355467821269958",
+               "date_last_used": "0",
+               "guid": "50317d2e-d388-4299-9109-2e9ed8084953",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[HowTo] set up the audio card in Samsung Galaxy Book - Contributions / Tutorials - Manjaro Linux Forum",
+               "type": "url",
+               "url": "https://forum.manjaro.org/t/howto-set-up-the-audio-card-in-samsung-galaxy-book/37090/46"
+            }, {
+               "date_added": "13358025381282308",
+               "date_last_used": "0",
+               "guid": "9f823ebc-8d28-48cc-884e-aae336eb66e1",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "challenge code will change when re-install windows system everytime - VB-Audio's Forums",
+               "type": "url",
+               "url": "https://forum.vb-audio.com/viewtopic.php?t=968"
+            } ],
+            "date_added": "13355467833844680",
+            "date_last_used": "0",
+            "date_modified": "13358025381282308",
+            "guid": "eaf024b3-63b9-40c1-aa0f-1b9822f19018",
+            "id": "16",
+            "name": "Troubleshooting",
+            "type": "folder"
+         } ],
+         "date_added": "13361719366033051",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13278765988302549",
+            "date_last_used": "0",
+            "guid": "d7d8986c-9f2e-4dc7-9cd1-3a4faa34c0be",
+            "id": "19",
+            "name": "glasvezel vs ziggo - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=glasvezel+vs+ziggo&oq=glasvezel+vs+&aqs=chrome.2.69i57j0i512l3j0i22i30l4.5085j0j9&client=ms-android-xiaomi-rvo3&sourceid=chrome-mobile&ie=UTF-8"
+         } ],
+         "date_added": "13361719366033052",
+         "date_last_used": "0",
+         "date_modified": "13278765988302549",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CuoGCskGCIiBAhLCBiAAkgG8BgryBQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ0yqAdNMZBgAR0yqAdNMZBgAiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkFV6Nx0xkGABADGYHXjuXBP6tIIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpsz6AdNMZBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmAuetu0xkGABGAuetu0xkGACl0O4B00xkGADCA8673trqGAxIAKhhVTHF1UDh0MmVEMkxCdTJkMVQva21nPT1IAxKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnhNK0hUMmw2SzhRbDNLRTg1RXVZNzFXZ1ZuSzZ4OXhIN1g4VUttaXRDTVVwcVd6cms4Z2cyb3ZQV1lkNjRITDBYUE9CeW8YACAAKAAwha6Njbe6hgM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLtAQgPEugBChx6MWI2S1VxZW95bkFOM3RlNXhudngxaERVL3c9EmZaOkFEcXRBWndGTEsycEprbFdoMHBDekZKTG02ZFlVK2ljN0pxdnh3Ni80dkVoVDgzY1YzQkhoSk8vYjQ4Z0RtL0xvbVZoY0g5Z2k1emtvb2cyTlZ4QVNncm5wSGhuSTA1K21nPT0YACAAKAAwqJfP8u3QhQM4zYaV0YkxQM2GldGJMUocQjd4M1hXT21YZ0N5OEM0b0V2d3drYTEvcjNvPVogIh7/iTk5VWNHd2JkWGh4cjlNYTRYSVRnRkdjRXI4cz1l44DKahLrAQgSEuYBChxTeUFqaks2NG9UWHR2TGFaeklWbXNMdHV2ZWM9EmZaOkFEcXRBWndGTEsycEprbFdoMHBDekZKTG02ZFlhdzNIcFZJS3NhS2NJMER1bUpwaDZXeWxBMG1LVW0xK0k2YU5iZVdsOGZUSUxhVWxMQmVHb0oxRFA5ZmttZmMwMXhzbUFRPT0YACAAKAAw8PDt6vXOhQM4otuUve8xQKLblL3vMUocMXg1RitZaGVRK00vcDhQNjhKalVuYkdHSElvPVoeIhxaYWcwZ2NSKzVDZE5TNnJnMnNVMjdkMk85OEE9ZZzBf7MS7QEICRLoAQocZ1VFOVhoY21XaFNkVndJSEF0TnphN3BJM3pnPRJmWjpBRHF0QVp3RkxLMnBKa2xXaDBwQ3pGSkxtNmRZQnFjZUdnQURNb3NXUXdtNytkNndWNnVjRnFHS0piVHVlY0pTUnRaVmRSemVVTkZ5T08zRHhqNFR1cDUyR2Q3V2NIOWRQZz09GAAgACgAMKiXz/Lt0IUDOKSSgfG+MUCkkoHxvjFKHERaOWtScVNMeFA5U0Jta29uV0hVOUtxYjVCOD1aICIe/uVRQ3N2N3Z6VGZheitkQU1zV29xYkx5bmRTNEU9ZXf/TBoS7QEICBLoAQocaFZldGx0ZXlSMTE2cFI4MlhqU3pDa2FucG04PRJmWjpBRHF0QVp3RkxLMnBKa2xXaDBwQ3pGSkxtNmRZVUtYdU53VEpScFpQMXUzYkRzc2o5aXdhL2N1NTMyL0RwTzZQemR2a1FXc1ZuVTdsQisxYmMxTEtWbXJmN0IzZ0xtOXphQT09GAAgACgAMKiXz/Lt0IUDOLnEgJG4MUC5xICRuDFKHDBzRGRVTnRrdGYrL2dYUlMzb0RUZGMzbngyUT1aICIe/rptQkI1bDM2R3cvd3BOZFZmZVU3VzRxV212RVk9Za+hfdoS7AEIEBLnAQocRVJZMGNTR1ozTGR4UlNqT3dYTkRTOTlUL2JzPRJmWjpBRHF0QVp3RkxLMnBKa2xXaDBwQ3pGSkxtNmRZMGNjYm9TS2ZmSG82YUxUTE1qTThyWVB2UGN1OTUwdURaM0QyV1JHZ1N2NlUyd3NDRzZ4cXBWclZaaHErdTFqck1MNnNrUT09GAAgACgAMNSBz+iwhIUDOPSz0PnlMUD0s9D55TFKHDVYOVhYV2lQZjdzUGNjV3hvMXo3cTNPSmQycz1aHyIdpzZORmlUUHRqT2NhVkRGUEVaZnA3ODFKSGp0TT1lAAAAABLrAQgTEuYBChwvQ2ZuN2NqRllFRHk2dmZjUmMyQ0xlTVQ2OGs9EmZaOkFEcXRBWndGTEsycEprbFdoMHBDekZKTG02ZFlGSzJjTHBMaHJXa0pyc3RxbnJ4WTZhYWRrd3pRaFhlZ1FyUndMNVRaa1ZnUlhjSHQvMjd2R0x2UHEwbTkzSUdyMjNYUFlnPT0YACAAKAAwu6CO7cTQ9AI4z6Orm8gvQM+jq5vIL0ocbDlFUk1LN2lUbGlUVFpaOWFSaWdscHY0alZFPVoeIhxOLzNOdzVocElMNEgrNjJYTGo3MFBDNEQxTFk9ZbVhQ40S7AEIBRLnAQocM1dMQXlrelcxMDNCa1BTSzUwL3RzRm1TOUlvPRJmWjpBRHF0QVp3RkxLMnBKa2xXaDBwQ3pGSkxtNmRZRXZqVDBEZzl3c3lSa2hYakpDcG9xRTlzcTJja1RNSnhieS9NNGNYWW1EdkNWWlpDemM3Ymk1dHlsNXdNL1I2eEloUEpnUT09GAAgACgAMKiXz/Lt0IUDOMfR973+L0DH0fe9/i9KHC9xMWg3WlYzSTFISXduTTVoTkVnMU9tZXY2UT1aHyIdqVNjcnFDZWRRV2M5MUpsVjBNZTNuQllOTWEyYz1lOPk5MxLsAQgHEucBChx6U2V5TGowMEszUER2WllzdkYrN3VIb1ZNb009EmZaOkFEcXRBWndGTEsycEprbFdoMHBDekZKTG02ZFkzM2pEZzRHYmdkN21qQlNjOFFVdUZkYlpUZGI0eU05M0pBNDhFNWNvckQ4YUVHbDREcktqemhJdXNIS000VE14aEtkb1p3PT0YACAAKAAwqJfP8u3QhQM47vPF6YgxQO7zxemIMUocWklBYXJoYVFaYnU2aHZjZ2xCVk8xV2xMeC9ZPVofIh3+dENQc2VvNE9STVoxTitGNXdoUmhsUEZoQ09RPWWUXdY+EusBCBES5gEKHGN0YmNITDM2QWhkbjdJWlZURkxQM3hOakczdz0SZlo6QURxdEFad0ZMSzJwSmtsV2gwcEN6RkpMbTZkWUFBTjhKVDBid0dIWERwenFIMVNnQnVZQk9aWld3MHgxZU1lWjdpRGp6bVpyb2pFcVpxaDZjLzdJcnRxVWtPb25wZ0RWZFE9PRgAIAAoADDUgc/osISFAzjW0c/55TFA1tHP+eUxShxvc3FTbDkzT05IczY2TjJ6ZEZMQ051MkZ6eDg9Wh4iHE9rY3lEYVhOaUJkenV4anJNRUsyT2JiM2hjcz1lOLZzAhLtAQgLEugBChxpamxUd0tWVWR4SmhJa2g2cUMreEU1VjdtL1k9EmZaOkFEcXRBWndGTEsycEprbFdoMHBDekZKTG02ZFk1K0VBbUlVNENVaXc3dk94YUZtakJqTGsrekJyNWk0d1MrY1ltTVh6L1B5NUFQRE1JV3lKNWFLcTJXS09Sd0RJZ0VqNlB3PT0YACAAKAAwqJfP8u3QhQM4p7L/8L4xQKey//C+MUocSFNxR2R0bWRRSkdPT1AvTFBlNVVTZGRkOEJRPVogIh7+93hUUk5yRmw2NU5nLzZEdlh3Y215VUpTak9Yaz1l8M5s0xLtAQgKEugBChx3aW93TlFDVVF2eDI4c1lxSVpWc2dCOTZGU3M9EmZaOkFEcXRBWndGTEsycEprbFdoMHBDekZKTG02ZFlXZ3BoaGQyOGJhQlVBRWVESlJuNk1IbnBpZWhkSEtWMHMrbnZxR3MzUGoycENzcWg2Q05zdFk2RGJWTkNYTGd6QVVLdkZRPT0YACAAKAAwqJfP8u3QhQM42rmA8b4xQNq5gPG+MUocZlhHTlQ2UWlBMmVRbWNvNW5uNSt3RzBRL0p3PVogIh7+7lZyeE9pVk10bEsxTW1tQ0VGbExINnhRVWQ5UT1lOPk5MxLsAQgOEucBChwyQUV6L0tUYkFvd0dFRUlJY29QUFNLZnBjOTQ9EmZaOkFEcXRBWndGTEsycEprbFdoMHBDekZKTG02ZFlkVGpyVy9QNjg0eWwzcE5DS1B2ak0yYmkxSkMxaDFZTlJVcThaTTVOemNuYnhKT2FQaW5QOTh1WEVrOGtSUlRsQnVhYlB3PT0YACAAKAAwzJ35v9+uhgM4/dSE2YgxQP3UhNmIMUocYWdVTG40YzJiNEsycldWenlKSzkvcXZxay9rPVofIh3/YlIxbmdORXVQSk9Mc1Fib0VtNXVRSzBRUms0PWXjgMpqEuwBCAwS5wEKHEQwYzYyT2ZEYkRKSFpGcWNkRlo5bGNNSzhDMD0SZlo6QURxdEFad0ZMSzJwSmtsV2gwcEN6RkpMbTZkWWZJdktsUnhlYUxEVUo5SkNkdGE4R1Fyd0VkaW8raUtxK0FVV0JBRk8xWDJNU0hkZmJId0U5dkxLNXpRU20xdk9Bc0Q4Mmc9PRgAIAAoADCol8/y7dCFAziLp4nCvjFAi6eJwr4xShwvT1hrblB0Nm5NeGtabzQvejJ5YU9LaDhKN2s9Wh8iHf9HUzRhVzlMSGJqL2RqMnpIRlczclNHbGREaHc9ZeOAymoS7QEIDRLoAQocZzRCZWROYU93T2FzU0xqMDBmbG81RUZYYUNrPRJmWjpBRHF0QVp3RkxLMnBKa2xXaDBwQ3pGSkxtNmRZalo2TUV3RnNXak9oTG1sYjF6a2xHZ0xkQUl6VGE4UVRyUm44V2tjOFRLNDY5WVNLUnVqajVvMU10aWpyYk5CTVJNNzNadz09GAAgACgAMKiXz/Lt0IUDOMG0iMK+MUDBtIjCvjFKHDBYVVJ4SWtwMlhnQmxMVkF1Z0paV0hJNmJoYz1aICIe/1QxdXQzMHNBZnljc2dpOVh6NEE5TS9yV2dFU0k9ZeOAymoSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4QUljNllQck8yN2FpWHNpUmZFckEyRXdZdGpBTG1mRUxqVERwWElPZHhJUlZRbTNWT0RWWlN5WS95TXhYY1k3UnVybkoxYjQrODc3bmdJUHFLQ2dLWitEVGs4QT09GAAgACgAMIWujY23uoYDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6TzFIcTRxSkxrcmxKQ1VtZ2tHZkNGcnNEZFMybktUblljOVBjYWMyMnJHUEIwRUNnV1g2ZFRUbWFvVXl3b1NkZmFtSDZVTU11Smpya0doYy9ZVkdVN3I5SWM1UT09GAAgACgAMIWujY23uoYDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

@@ -1,0 +1,23 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "worker.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "bundle.css" ],
+      "js": [ "inject.js", "content.js" ],
+      "matches": [ "*://*.twitch.tv/*" ]
+   } ],
+   "description": "Extension that adds what is missing on Twitch.",
+   "icons": {
+      "128": "img/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv3OO/zJymUXLN/6BbBRTKqq8UvS1PKJyfcLRSBpwhwLXZLe3eKGw5McMyub2IUXc1xIx3wqhv4/hy1UhdwyOKkEiBowWjc7gGA5XS2o5b3pEUJA5/CJnYxNZhDEMY/iqzqHjLg48Iz8cIGw9KFb9yhpAgFed/DZSVuSZVe6ViboWnrcAXcrJDQcDZ63/9/hJtX/veizdXgtyl+gyxXVjZRYLuFXgJcfvLuQZKnQybHE7vZKmiAdKPQVopLr7G+izLX3PYXl9pW80WPoYEt6qONPlZkLkK2QXfRiq6BntgnpTK4joyrKT6d1bvaLMM6FGHoCxiL8idxhqH6QXgt6ofwIDAQAB",
+   "manifest_version": 2,
+   "name": "Twitch Enhancer",
+   "permissions": [ "*://*.twitch.tv/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.14",
+   "web_accessible_resources": [ "index.js", "bundle.css", "img/*.png", "img/*.svg", "img/*.jpg", "sounds/*.ogg", "sounds/*.mp3" ]
+}
