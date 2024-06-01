@@ -9,7 +9,7 @@ Color
 ParallelDownloads = 25" | sudo tee -a /etc/pacman.conf
 
 sudo touch /etc/sudoers.d/10-arch
-echo "shiver ALL=(ALL) NOPASSWD: ALL" | sudo tee -a /etc/sudoers.d/10-arch 
+echo "$USER ALL=(ALL) NOPASSWD: ALL" | sudo tee -a /etc/sudoers.d/10-arch 
 
 # cd back to user home
 cd
