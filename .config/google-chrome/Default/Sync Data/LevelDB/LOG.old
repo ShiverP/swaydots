@@ -1,0 +1,15 @@
+2024/06/02-14:09:38.237 672 Reusing MANIFEST /home/shiver/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/02-14:09:38.239 672 Recovering log #104
+2024/06/02-14:09:38.242 672 Reusing old log /home/shiver/.config/google-chrome/Default/Sync Data/LevelDB/000104.log 
+2024/06/02-14:09:46.670 677 Level-0 table #108: started
+2024/06/02-14:09:46.673 677 Level-0 table #108: 117038 bytes OK
+2024/06/02-14:09:46.676 677 Delete type=0 #104
+2024/06/02-14:09:46.677 677 Compacting 4@0 + 1@1 files
+2024/06/02-14:09:46.683 677 Generated table #109@0: 246 keys, 54817 bytes
+2024/06/02-14:09:46.683 677 Compacted 4@0 + 1@1 files => 54817 bytes
+2024/06/02-14:09:46.685 677 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/02-14:09:46.686 677 Delete type=2 #98
+2024/06/02-14:09:46.686 677 Delete type=2 #101
+2024/06/02-14:09:46.686 677 Delete type=2 #103
+2024/06/02-14:09:46.686 677 Delete type=2 #105
+2024/06/02-14:09:46.686 677 Delete type=2 #108
