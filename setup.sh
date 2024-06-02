@@ -44,14 +44,6 @@ cd swaydots
 stow .
 cd
 
-# Make project directories
-mkdir -p ~/developer/projects
-cd developer/projects
-git clone https://github.com/ShiverP/game-engine.git
-git clone https://github.com/ShiverP/edens-crucible.git
-git clone https://github.com/ShiverP/chiclaps.git
-cd
-
 # Enable and start sddm to log in
 sudo systemctl enable sddm
 sudo systemctl start sddm
