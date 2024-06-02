@@ -1,1 +1,2 @@
-../../../../../swaydots/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/LOG
+2024/06/02-16:32:32.445 2aa4 Creating DB /home/shiver/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb since it was missing.
+2024/06/02-16:32:32.447 2aa4 Reusing MANIFEST /home/shiver/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001

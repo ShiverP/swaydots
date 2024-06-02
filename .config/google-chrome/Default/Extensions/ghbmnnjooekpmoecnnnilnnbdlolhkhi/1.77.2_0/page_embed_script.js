@@ -1,1 +1,1 @@
-../../../../../../swaydots/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.77.2_0/page_embed_script.js
+(function(){window._docs_chrome_extension_exists=!0;window._docs_chrome_extension_features_version=2;window._docs_chrome_extension_permissions="alarms clipboardRead clipboardWrite storage unlimitedStorage offscreen".split(" ");window._docs_chrome_extension_manifest_version=2;}).call(this);
