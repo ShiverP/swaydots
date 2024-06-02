@@ -12,7 +12,7 @@ gaps inner 6
 gaps outer 2
 
 # Remove window titles
-default_border pixel 2
+default_border pixel 0
 
 ### Variables
 #
@@ -75,7 +75,7 @@ input "type:pointer" {
 input "type:touchpad" {
   accel_profile flat
   pointer_accel 0.5
-  scroll_factor 0.15
+  scroll_factor 0.1
   natural_scroll enabled
   dwt enabled
   click_method clickfinger
