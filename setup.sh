@@ -26,10 +26,6 @@ sudo pacman -S ttf-font-awesome ttf-roboto-mono-nerd --noconfirm
 # Install WM
 sudo pacman -S sway xdg-desktop-portal xdg-desktop-portal-wlr swayidle swaylock --noconfirm
 
-# Set global git config name and password
-git config --global user.name "ShiverP"
-git config --global user.email "shivamparwat01@gmail.com"
-
 # Install yay
 git clone https://aur.archlinux.org/yay.git
 cd yay/
@@ -38,7 +34,7 @@ cd
 rm -rf yay/
 
 # Install yay packages
-yay -S google-chrome-wayland-vulkan spotify webcord multimc-bin autotiling --noconfirm
+yay -S google-chrome-wayland-vulkan spotify webcord autotiling --noconfirm #multimc-bin broken I guess, gotta look into that
 
 # Configure shell
 sudo chsh -s /usr/bin/zsh
