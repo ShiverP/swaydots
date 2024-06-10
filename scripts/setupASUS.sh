@@ -26,7 +26,7 @@ sudo pacman -S ttf-font-awesome nerd-fonts --noconfirm
 
 # Set global git config name and password
 git config --global user.name "ShiverP"
-git config --global usern.email "shivamparwat01@gmail.com"
+git config --global user.email "shivamparwat01@gmail.com"
 
 # Install yay
 git clone https://aur.archlinux.org/yay.git
@@ -36,7 +36,7 @@ cd
 rm -rf yay/
 
 # Install yay packages
-yay -S google-chrome-wayland-vulkan spotify webcord multimc-bin autotiling obs-studio-tytan652  --noconfirm
+yay -S google-chrome-wayland-vulkan spotify webcord multimc-bin autotiling --noconfirm
 
 # Configure shell
 sudo chsh -s /usr/bin/zsh

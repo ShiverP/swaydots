@@ -40,7 +40,25 @@ rm -rf yay/
 
 # Install yay packages
 yay -S google-chrome spotify webcord multimc-bin autotiling --noconfirm
-yay -S obs-studio-tytan652
+
+# Install obs-studio-BROWSER for now, have to check other versions
+  ## Install some dependencies
+    sudo pacman -S qt5-svg qt5-x11extras mbedtls pipewire cmake git libfdk-aac swig qt5-wayland sndio --noconfirm
+
+  ## Install vlc-luajit dependencies (needs to be manual install through AUR)
+  sudo pacman -S a52dec libdvbpsi libdca libmatroska taglib libmpcdec faad2 libmad libmpeg2 libtar libupnp libixml.so libupnp.so libplacebo wayland-protocols live-media libdc1394 libcaca libgme xosd twolame aalib libmtp libupnp libmicrodns libdvdcss smbclient vcdimager protobuf libnfs mpg123 libdvdread libdvdnav libshout zvbi libkate libtiger sdl_image lirc libgoom2 projectm chromaprint aribb24 aribb25 pcsclite lua51 --noconfirm
+
+  ## Actually install vlc-luajit
+  yay -S vlc-luajit --noconfirm
+
+  ## Install cef-minimal dependencies (Another manual AUR install basically)
+  sudo pacman -S libxss --noconfirm
+
+  ## Install cef-minimal
+  yay -S cef-minimal
+
+  ## Actually install OBS
+  yay -S obs-studio-browser --noconfirm
 
 # Configure shell
 sudo chsh -s /usr/bin/zsh
