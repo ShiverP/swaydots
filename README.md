@@ -1,5 +1,7 @@
 # Shiver's Sway dotfiles
 
+This is NOT yet suitable for anyone but myself. This sets everything up not only the way I want it, but the way I NEED it to work. 
+
 ## Setup script
 Currently, this is a script that: 
 - First changes directory to root.
