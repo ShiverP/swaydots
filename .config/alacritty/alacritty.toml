@@ -11,6 +11,7 @@ blur = true
 
 [font]
 normal = { family = "Roboto Mono Nerd Font" }
+size = 10.0
 
 [cursor]
 style = {shape = "Underline", blinking = "Never"}

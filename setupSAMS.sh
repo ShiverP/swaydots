@@ -1,1 +1,0 @@
-scripts/setupSAMS.sh

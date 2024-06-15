@@ -18,10 +18,10 @@ cd
 sudo pacman -Syu
 
 # Install essential packages
-sudo pacman -S zip unzip sddm htop tlp brightnessctl blueman pavucontrol swaybg waybar grim alacritty wofi slurp xorg-xwayland neofetch curl wget stow alsa-tools pulsemixer github-cli dolphin base-devel fzf zsh neovim solaar steam --noconfirm
+sudo pacman -S alacritty alsa-utils blueman bluez brightnessctl cmatrix curl dolphin fastfetch firefox git github-cli grim neovim obsidian openssh pavucontrol sddm sof-firmware slurp solaar steam stow sway swaybg swayidle swaylock unzip vlc waybar wget wofi xdg-desktop-portal xdg-desktop-portal-wlr zip zsh --noconfirm
 
 # Install fonts
-sudo pacman -S ttf-font-awesome ttf-roboto-mono-nerd --noconfirm
+sudo pacman -S ttf-font-awesome nerd-fonts --noconfirm
 
 # Install WM
 sudo pacman -S sway xdg-desktop-portal xdg-desktop-portal-wlr swayidle swaylock --noconfirm
@@ -34,9 +34,9 @@ cd
 rm -rf yay/
 
 # Install yay packages
-yay -S google-chrome-wayland-vulkan spotify webcord autotiling auto-cpufreq --noconfirm #multimc-bin broken I guess, gotta look into that
+yay -S autotiling auto-cpufreq cava google-chrome-wayland-vulkan spotify webcord --noconfirm 
 
-# Temp(?) MultiMC install from AUR without yay.
+# Temp(?) MultiMC install from AUR without yay. Package from yay seems to be outdated anyway.
 git clone https://github.com/MultiMC/multimc-pkgbuild.git
 cd multimc-pkgbuild
 makepkg -si
