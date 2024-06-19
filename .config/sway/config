@@ -34,7 +34,7 @@ set $menu wofi --show drun
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 
-output * bg "~/wallpapers/backiee-293500-landscape.jpg" fill
+output * bg "~/wallpapers/backiee-293500-landscape.jpg" fit
 #
 # Example configuration:
 #
